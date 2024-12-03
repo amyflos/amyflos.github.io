@@ -1,0 +1,97 @@
+*{
+    font-family: "Sour Gummy", serif;
+}
+h1{
+    font-family: "Sour Gummy", serif;
+}
+p{
+    font-family: "Inconsolata", monospace;
+    color: #550c51;
+    text-align: justify;
+
+}
+h2{
+    font-family: "Sour Gummy", serif;
+    color: #250a50;
+
+}
+
+
+
+header{
+    background-color: #4ed1c0; 
+    
+}
+header a{
+    color: #7c177c;
+
+   
+
+}
+.nav-item a{
+    color: #7c177c;
+    font-family: "Sour Gummy", serif;
+}
+#boton-perfil{
+    background-color: #d390da;
+    color: #601263;
+    
+}
+.nav-item a:hover{
+    color: #1d5575;
+}
+#app{
+    color: #250a50;
+}
+.boton-cv{
+    background-color: #d390da;
+    color: #250a50;
+    
+}
+.caja-habilidades{
+    background-color: #35d8c0;
+    color: #101102;
+}
+.btn-proyecto{
+    background-color: #4ed1c0;
+    
+}
+.btn-proyecto a{
+    text-decoration: none;
+    color: black;
+    font-family: "Nunito", sans-serif;
+
+    
+}
+.card .card-title{
+    color: #601263;
+    font-family: "Sour Gummy", serif;
+}
+#contacto{
+    background-color: #4ed1c0;
+    color: #5c136e;
+}
+#btn-contacto{
+    background-color: #d390da;
+    color: black;
+    font-family: "Sour Gummy", serif;
+}
+#btn-contacto:hover{
+    background-color: #6d7574;
+}
+footer ul li a .bi{
+    color: black;
+
+    
+}
+footer p{
+    color: #35126e;
+    font-family: "Sour Gummy", serif;
+    
+}
+footer p a{
+    text-decoration: none;
+    color: #601263;
+    font-family: "Sour Gummy", serif;
+    
+}
