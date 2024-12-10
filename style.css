@@ -1,97 +1,115 @@
+
+
 *{
     font-family: "Sour Gummy", serif;
+    color: #1f7c74
+    
+}
+*:hover{
+    color: #1a4b47;
 }
 h1{
     font-family: "Sour Gummy", serif;
+    color: #0b062c;
 }
 p{
-    font-family: "Inconsolata", monospace;
-    color: #550c51;
+    font-family: "Josefin Sans", sans-serif;
+    color: #193391;
     text-align: justify;
 
 }
 h2{
     font-family: "Sour Gummy", serif;
-    color: #250a50;
+    color: #1f7c74;
+
 
 }
 
 
 
 header{
-    background-color: #4ed1c0; 
+    background-color: rgb(220, 230, 131); 
     
 }
 header a{
-    color: #7c177c;
+    color: rgb(2, 83, 70);
 
    
 
 }
 .nav-item a{
-    color: #7c177c;
-    font-family: "Sour Gummy", serif;
+    color: #0e3a36;
+    
 }
 #boton-perfil{
-    background-color: #d390da;
-    color: #601263;
+    background-color: #cfe45b;
+    color: #042421;
     
 }
 .nav-item a:hover{
-    color: #1d5575;
+    color: #152e2c;
 }
 #app{
-    color: #250a50;
+    color: #4c07b9;
+
 }
 .boton-cv{
-    background-color: #d390da;
-    color: #250a50;
+    background-color: #cfe45b;
+    color: black;
     
 }
 .caja-habilidades{
-    background-color: #35d8c0;
-    color: #101102;
+    background-color: #c4c586;
+    
 }
 .btn-proyecto{
-    background-color: #4ed1c0;
-    
+    background-color: #cfe45b;
+    font-family: "Josefin Sans", sans-serif;
+
 }
 .btn-proyecto a{
     text-decoration: none;
     color: black;
-    font-family: "Nunito", sans-serif;
+    
 
     
 }
 .card .card-title{
-    color: #601263;
-    font-family: "Sour Gummy", serif;
+    color: black;
+    font-family: "Josefin Sans", sans-serif;
+
+    
+}
+.card .card-text{
+    text-align: center;
+    
 }
 #contacto{
-    background-color: #4ed1c0;
-    color: #5c136e;
+    background-color: #d7db98;
+    color: #041e41;
 }
 #btn-contacto{
-    background-color: #d390da;
+    background-color: #cfe45b;
     color: black;
     font-family: "Sour Gummy", serif;
 }
 #btn-contacto:hover{
-    background-color: #6d7574;
+    background-color: rgb(98, 119, 128);
 }
 footer ul li a .bi{
-    color: black;
+    color: #0d0924;
 
     
 }
 footer p{
-    color: #35126e;
+    color: #193391;
     font-family: "Sour Gummy", serif;
+    
     
 }
 footer p a{
     text-decoration: none;
-    color: #601263;
+    color: #e511ec;
     font-family: "Sour Gummy", serif;
     
 }
